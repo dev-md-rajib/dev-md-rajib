@@ -1,5 +1,4 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/__NOAH__?theme=unicorn&font=Brawler&ext=activity)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/__NOAH__?theme=dark&font=Asap&ext=activity)
 <!--
 **dev-md-rajib/dev-md-rajib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
